@@ -1,0 +1,10 @@
+Configs: {
+	AutoWhipStackingConfig: {
+		DisplayName: Config
+
+		WhipLoopDelay: {
+			Label: Whip loop delay (in seconds)
+			Tooltip: 3 for keeping whip speed buff, 4 for keeping summon tag damage
+		}
+	}
+}

@@ -1,0 +1,5 @@
+displayName = AutumnVN's Auto Whip Stacking
+author = AutumnVN
+version = 1.0
+side = Client
+homepage = https://github.com/AutumnVN/AutoWhipStacking

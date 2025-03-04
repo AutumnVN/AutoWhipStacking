@@ -1,0 +1,3 @@
+Automatically switch between whips while attacking.
+
+Source code: https://github.com/AutumnVN/AutoWhipStacking
